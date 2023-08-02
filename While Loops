@@ -1,0 +1,10 @@
+while countdown
+10 9 8 7 6 5 4 3 2 1
+
+while calculateFactorial
+calculateFactorial(5) should return 120 (5! = 5 * 4 * 3 * 2 * 1).
+calculateFactorial(10) should return 3,628,800 (10! = 10 * 9 * 8 * ... * 1).
+
+while sumArray
+sumArray([1, 2, 3, 4, 5]) should return 15 (1 + 2 + 3 + 4 + 5).
+sumArray([10, 20, 30]) should return 60 (10 + 20 + 30).
